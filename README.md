@@ -3,10 +3,10 @@
 Rich Snippets in search results help improve your click through rate to your website.  Support structured data types: Product, Breadcrumbs, Google Authorship.
 
 ## Feature
-```
+
 What is rich snippets?
 Rich Snippets — the few lines of text that appear under every search result — are designed to give users a sense for what’s on the page and why it’s relevant to their query.
-```
+
 
 - Display Google Authorship.
 - Display Breadcrumbs Type.
